@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of course topics and assignment due
   dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -75,7 +77,7 @@ Response paper due
 
 Race Eliminativism
 
-Screening: _{{% resource_link "f442d8a9-67b7-45eb-a0f2-67934c6595e3" "RACE - The Power of an Illusion, Ep. 1: The Difference Between Us" %}}_. Directed by Christine Herbes-Sommers. Color, 57 min. 2003.
+Screening: _[RACE - The Power of an Illusion, Ep. 1: The Difference Between Us](http://www.pbs.org/race/000_About/002_04-about-01.htm)_. Directed by Christine Herbes-Sommers. Color, 57 min. 2003.
 
 
 {{< tdclose >}}
@@ -311,7 +313,7 @@ Draft of final paper due
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Screening: _{{% resource_link "72331e28-eac3-40fb-82f5-085cd896bd4d" "Free Angela and All Political Prisoners" %}}._ Directed by Shola Lynch. Color, 102 min. 2012.
+Screening: _[Free Angela and All Political Prisoners](http://www.imdb.com/title/tt2350432/?ref_=fn_al_tt_1)._ Directed by Shola Lynch. Color, 102 min. 2012.
 {{< tdclose >}}
 {{< tdopen >}}
  
