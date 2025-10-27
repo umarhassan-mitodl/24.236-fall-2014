@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a list of useful texts for the course and the schedule
   of readings by session and topic.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -13,7 +11,7 @@ uid: 2371905a-2640-0de0-a004-8b340b116544
 
 In addition to the readings in the table below, the following texts are also useful:
 
-\[BL\] = Blum, Lawrence. _"I'm Not a Racist, But…": The Moral Quandary of Race_. Cornell University Press, 2002. ISBN: 9780801488153. \[Preview with [Google Books](http://books.google.com/books?id=X6VnRiUmp3oC&pg=PAfrontcover)\]
+\[BL\] = Blum, Lawrence. _"I'm Not a Racist, But…": The Moral Quandary of Race_. Cornell University Press, 2002. ISBN: 9780801488153. \[Preview with {{% resource_link "b7137cb1-a820-422d-ba06-0affcbdebba7" "Google Books" %}}\]
 
 \[BB\] = Boxill, Bernard, ed. _Race and Racism_. Oxford University Press, 2001. ISBN: 9780198752677.
 
@@ -67,7 +65,7 @@ A Tiny Slice of the History of the Concept of Race
 {{< tdopen >}}
 
 
-Blumenbach, F. Joahann. "On The Natural Variety of Mankind." In _The Idea of Race_. Edited by Robert Bernasconi and Tommy Lee Lott. Hackett Publishing Company, 2000. ISBN: 9780872204584. \[Preview with [Google Books](http://books.google.com/books?id=di2YVLKgIC8C&pg=PA27#v=onepage)\]
+Blumenbach, F. Joahann. "On The Natural Variety of Mankind." In _The Idea of Race_. Edited by Robert Bernasconi and Tommy Lee Lott. Hackett Publishing Company, 2000. ISBN: 9780872204584. \[Preview with {{% resource_link "44a1d158-e0d3-4e42-a586-e121a658f038" "Google Books" %}}\]
 
 Stocking, Jr., George W. "[The Turn-of-the-Century Concept of Race](http://dx.doi.org/10.1353/mod.1994.0015 )." _Modernism / Modernity_ 1, no. 1 (1994): 4–16.
 
@@ -96,12 +94,12 @@ Stocking, Jr., George W. "[The Turn-of-the-Century Concept of Race](http://dx.do
 
 Race Eliminativism
 
-Screening: _[RACE - The Power of an Illusion, Ep. 1: The Difference Between Us](http://www.pbs.org/race/000_About/002_04-about-01.htm)._ Directed by Christine Herbes-Sommers. Color, 57 min. 2003.
+Screening: _{{% resource_link "1523bee6-bca2-475a-8889-818c2fc1f9c5" "RACE - The Power of an Illusion, Ep. 1: The Difference Between Us" %}}._ Directed by Christine Herbes-Sommers. Color, 57 min. 2003.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Bamshad, Michael J., and Steve E. Olsen. “[Does Race Exist?](http://www.scientificamerican.com/article/does-race-exist/)" _Scientific American_, December 2003.
+Bamshad, Michael J., and Steve E. Olsen. “{{% resource_link "7c681eb7-e0e9-4f8c-9876-13e61a1e08a1" "Does Race Exist?" %}}" _Scientific American_, December 2003.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +111,7 @@ Bamshad, Michael J., and Steve E. Olsen. “[Does Race Exist?](http://www.scient
 Appiah and the Meaning of 'Race'
 {{< tdclose >}}
 {{< tdopen >}}
-Appiah, Anthony K. ["Race, Culture, Identity: Misunderstood Connections." (PDF)](http://philpapers.org/archive/APPRCI.pdf) The Tanner Lectures on Human Values, delivered at University of California at San Diego, October 27 and 28, 1994. PhilPapers.
+Appiah, Anthony K. {{% resource_link "da92169e-be97-4f30-b1ce-40c2ebaa2595" "\"Race, Culture, Identity: Misunderstood Connections.\" (PDF)" %}} The Tanner Lectures on Human Values, delivered at University of California at San Diego, October 27 and 28, 1994. PhilPapers.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,15 +125,15 @@ Race and Medicine
 {{< tdopen >}}
 
 
-Burchard, M. D., Esteban González, et al. "[The Importance of Race and Ethnic Background in Biomedical Research and Clinical Practice](http://dx.doi.org/10.1056/NEJMsb025007)." _New England Journal of Medicine_ 348, no. 12 (2003): 1170–75.
+Burchard, M. D., Esteban González, et al. "{{% resource_link "373284e6-be43-4ee2-8591-5fe254a77963" "The Importance of Race and Ethnic Background in Biomedical Research and Clinical Practice" %}}." _New England Journal of Medicine_ 348, no. 12 (2003): 1170–75.
 
-Root, Michael. "[The Use of Race in Medicine as a Proxy for Genetic Differences](http://www.ncbi.nlm.nih.gov/pubmed/17340785)." _Philosophy of Science_ 70, no. 5 (2003): 1173–83.
+Root, Michael. "{{% resource_link "9ed7250a-26c6-4782-bd34-27f6081e5978" "The Use of Race in Medicine as a Proxy for Genetic Differences" %}}." _Philosophy of Science_ 70, no. 5 (2003): 1173–83.
 
 ### Recommended
 
-Root, Michael. "[How We Divide The World](http://www.jstor.org/stable/188700)." _Philosophy of Science_ 67, Supplement. Proceedings of the 1998 Biennial Meetings of the Philosophy of Science Association. Part II: Symposia Papers. (2000): S628–39.
+Root, Michael. "{{% resource_link "5a7e974d-dce2-4a7a-83b3-919ac44e8814" "How We Divide The World" %}}." _Philosophy of Science_ 67, Supplement. Proceedings of the 1998 Biennial Meetings of the Philosophy of Science Association. Part II: Symposia Papers. (2000): S628–39.
 
-Risch, Neil, Esteban Burchard, et al. "[Categorization of Humans in Biomedical Research: Genes, Race and Disease](http://dx.doi.org/10.1186/gb-2002-3-7-comment2007)." _Genome Biology_ 3, no. 7 (2002): Comment2007.1 –.12.
+Risch, Neil, Esteban Burchard, et al. "{{% resource_link "ad266276-cfb0-44c6-a3a0-d391fb75cc1f" "Categorization of Humans in Biomedical Research: Genes, Race and Disease" %}}." _Genome Biology_ 3, no. 7 (2002): Comment2007.1 –.12.
 
 
 {{< tdclose >}}
@@ -155,9 +153,9 @@ Kitcher, Philip. "Race, Ethnicity, Biology, Culture." Chapter 4 in _Racism: Key 
 
 ### Recommended
 
-Andreasen, Robin O. "[A New Perspective on the Race Debate](http://dx.doi.org/10.1093/bjps/49.2.199)." _British Journal for the Philosophy of Science_ 49, no. 2 (1998): 199–225.
+Andreasen, Robin O. "{{% resource_link "bc4f1766-e897-457a-ace6-14060702cc60" "A New Perspective on the Race Debate" %}}." _British Journal for the Philosophy of Science_ 49, no. 2 (1998): 199–225.
 
-Glasgow, Joshua M. "[On The New Biology of Race](http://www.jstor.org/stable/3655724)." _Journal of Philosophy_ 100, no. 9 (2003): 456–74.
+Glasgow, Joshua M. "{{% resource_link "3fe4ef60-0ae5-4385-8392-8aaca9b617a9" "On The New Biology of Race" %}}." _Journal of Philosophy_ 100, no. 9 (2003): 456–74.
 
 
 {{< tdclose >}}
@@ -173,7 +171,7 @@ Kinds of Social Construction
 {{< tdopen >}}
 
 
-Mallon, Ron. "[A Field Guide to Social Construction](http://dx.doi.org/10.1111/j.1747-9991.2006.00051.x)." _Philosophy Compass_ 2, no. 1 (2007): 93–108.
+Mallon, Ron. "{{% resource_link "86d24985-d2c2-4655-a527-6b2a96814abd" "A Field Guide to Social Construction" %}}." _Philosophy Compass_ 2, no. 1 (2007): 93–108.
 
 ### Recommended
 
@@ -193,11 +191,11 @@ Intersectionality
 {{< tdopen >}}
 
 
-Crenshaw, Kimberlé. "Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color." Chapter 17 in _After Identity: A Reader in Law and Culture_. Edited by Dan Danielsen and Karen Engle. Routledge, 1995. ISBN: 9780415909976. \[Preview with [Google Books](http://books.google.com/books?id=qhRZSBkDTR4C&pg=PA332#v=onepage)\]
+Crenshaw, Kimberlé. "Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color." Chapter 17 in _After Identity: A Reader in Law and Culture_. Edited by Dan Danielsen and Karen Engle. Routledge, 1995. ISBN: 9780415909976. \[Preview with {{% resource_link "59e4142d-5cd0-473f-9edd-f1c736120c00" "Google Books" %}}\]
 
 ### Recommended
 
-Crenshaw, Kimberlé. "[Beyond Racism and Misogyny: Black Feminism and 2 Live Crew](http://bostonreview.net/archives/BR16.6/crenshaw.html)." Boston Review: A Political and Literary Forum.
+Crenshaw, Kimberlé. "{{% resource_link "db82d432-18c1-416b-834f-175759799c37" "Beyond Racism and Misogyny: Black Feminism and 2 Live Crew" %}}." Boston Review: A Political and Literary Forum.
 
 
 {{< tdclose >}}
@@ -211,7 +209,7 @@ Crenshaw, Kimberlé. "[Beyond Racism and Misogyny: Black Feminism and 2 Live Cre
 Race and the Construction of Social Identity
 {{< tdclose >}}
 {{< tdopen >}}
-Gooding-Williams, Robert. "[Race, Multiculturalism and Democracy](http://dx.doi.org/10.1111/1467-8675.00071)." _Constellations_ 5, no. 1 (1998): 18–41.
+Gooding-Williams, Robert. "{{% resource_link "11f44955-cf0c-4efc-a11f-ef00a9d9d3ba" "Race, Multiculturalism and Democracy" %}}." _Constellations_ 5, no. 1 (1998): 18–41.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,11 +223,11 @@ Gender and Race Constructions
 {{< tdopen >}}
 
 
-Haslanger, Sally. "[Gender and Race: (What) Are They? (What) Do We Want Them To Be?](http://dx.doi.org/10.1111/0029-4624.00201)" _Noûs_ 34, no. 1 (2000): 31–55.
+Haslanger, Sally. "{{% resource_link "6a1b5c83-b424-444d-bbcf-8e19c934311a" "Gender and Race: (What) Are They? (What) Do We Want Them To Be?" %}}" _Noûs_ 34, no. 1 (2000): 31–55.
 
 ### Recommended
 
-Mallon, Ron. "['Race': Normative, Not Metaphysical or Semantic](http://philpapers.org/rec/MALRNN)." _Ethics_ 116, no. 3 (2006): 525–51.
+Mallon, Ron. "{{% resource_link "617ba925-7180-4f39-9d32-589cc4c48c3a" "'Race': Normative, Not Metaphysical or Semantic" %}}." _Ethics_ 116, no. 3 (2006): 525–51.
 
 
 {{< tdclose >}}
@@ -247,7 +245,7 @@ Racial Identities
 
 Hacking, Ian. "Making Up People." In _Reconstructing Individualism: Autonomy, Individuality, and the Self in Western Thought_. Edited by Thomas C. Heller, Morton Sosna, et al. Stanford University Press, 1986. ISBN: 9780804712910.
 
-Haslanger, Sally. "You Mixed? Racial Identity without Racial Biology." Chapter 9 in _Resisting Reality: Social Construction and Social Critique_. Oxford University Press, 2012. ISBN: 9780199892624. \[Preview with [Google Books](http://books.google.com/books?id=UYHgUWlPMgUC&pg=PA273#v=onepage)\]
+Haslanger, Sally. "You Mixed? Racial Identity without Racial Biology." Chapter 9 in _Resisting Reality: Social Construction and Social Critique_. Oxford University Press, 2012. ISBN: 9780199892624. \[Preview with {{% resource_link "f087d31b-ab97-450b-88e9-d1bcb973fb53" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -261,7 +259,7 @@ Haslanger, Sally. "You Mixed? Racial Identity without Racial Biology." Chapter 9
 Latina/o Identity and Race
 {{< tdclose >}}
 {{< tdopen >}}
-Alcoff, Linda Martin. "Is Latina/o Identity a Racial Identity?" Chapter 1 in _Hispanics / Latinos in the United States: Ethnicity, Race, and Rights_. Edited by Jorge J. E. Gracia and Pablo De Greiff. Routledge, 2000. ISBN: 9780415926201. \[Preview with [Google Books](http://books.google.com/books?id=-6XdwXRrU6QC&pg=PA23#v=onepage)\]
+Alcoff, Linda Martin. "Is Latina/o Identity a Racial Identity?" Chapter 1 in _Hispanics / Latinos in the United States: Ethnicity, Race, and Rights_. Edited by Jorge J. E. Gracia and Pablo De Greiff. Routledge, 2000. ISBN: 9780415926201. \[Preview with {{% resource_link "af5c9ef9-d4a1-4dcb-9744-c5d208252ab5" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,11 +285,11 @@ Panethnicity
 {{< tdopen >}}
 
 
-Espiritu, Yen Le. "Ethnicity and Panethnicity." Chapter 1 in _Asian-American Panethnicity: Bridging Institutions and Identities_. Temple University Press, 1993. ISBN: 9781566390965. \[Preview with [Google Books](http://books.google.com/books?id=q2BqIYxOghsC&pg=PA1#v=onepage)\]
+Espiritu, Yen Le. "Ethnicity and Panethnicity." Chapter 1 in _Asian-American Panethnicity: Bridging Institutions and Identities_. Temple University Press, 1993. ISBN: 9781566390965. \[Preview with {{% resource_link "6688709c-8fec-4612-8ddc-6abc67554697" "Google Books" %}}\]
 
 ### Recommended
 
-———. "Pan-Asian American Ethnicity: Retrospect and Prospect." Chapter 7 in _Asian-American Panethnicity: Bridging Institutions and Identities_. Temple University Press, 1993. ISBN: 9781566390965. \[Preview with [Google Books](http://books.google.com/books?id=q2BqIYxOghsC&pg=PA161#v=onepage)\]
+———. "Pan-Asian American Ethnicity: Retrospect and Prospect." Chapter 7 in _Asian-American Panethnicity: Bridging Institutions and Identities_. Temple University Press, 1993. ISBN: 9781566390965. \[Preview with {{% resource_link "056e35eb-3612-4337-ae1c-3ffe24018744" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -307,13 +305,13 @@ Are Arabs a Race?
 {{< tdopen >}}
 
 
-Naber, Nadine. "Introduction: Arab Americans and U.S. Racial Formations." Chapter 1 in _Race and Arab Americans Before and After 9/11: From Invisible Citizens to Visible Subjects_. Edited by Amaney Jamal and Nadine Naber. Syracuse University Press, 2007. ISBN: 9780815631774. \[Preview with [Google Books](http://books.google.com/books?id=Qbgw2ZwvT8kC&pg=PA1#v=onepage)\]
+Naber, Nadine. "Introduction: Arab Americans and U.S. Racial Formations." Chapter 1 in _Race and Arab Americans Before and After 9/11: From Invisible Citizens to Visible Subjects_. Edited by Amaney Jamal and Nadine Naber. Syracuse University Press, 2007. ISBN: 9780815631774. \[Preview with {{% resource_link "753f12e9-e5d8-42ff-adbc-f5125d489600" "Google Books" %}}\]
 
 Jamal, Amaney. "Conclusion: Arab American Racialization." Chapter 12 in _Race and Arab Americans Before and After 9/11: From Invisible Citizens to Visible Subjects_. Edited by Amaney Jamal and Nadine Naber. Syracuse University Press, 2007. ISBN: 9780815631774. 
 
 ### Recommended
 
-[Racial Formation of Arab Americans](http://sitemaker.umich.edu/ac210web3/home), University of Michigan.
+{{% resource_link "5d6db21b-3aff-4cb2-83d5-da3c5c9f9273" "Racial Formation of Arab Americans" %}}, University of Michigan.
 
 
 {{< tdclose >}}
@@ -357,7 +355,7 @@ Racism in the Heart
 
 \[BB\] Garcia, J. L. A. "The Heart of Racism." Chapter 10.
 
-Shelby, Tommie. "[Is Racism in the 'Heart'?](http://dx.doi.org/10.1111/0047-2786.00150)" _Journal of Social Philosophy_ 33, no. 3 (2002): 411–20.
+Shelby, Tommie. "{{% resource_link "a6aee139-fc2b-42f1-81b1-b5df9a0092b5" "Is Racism in the 'Heart'?" %}}" _Journal of Social Philosophy_ 33, no. 3 (2002): 411–20.
 
 
 {{< tdclose >}}
@@ -373,9 +371,9 @@ Oppression and Institutional Racism
 {{< tdopen >}}
 
 
-Ezorsky, Gertrude. "Overt and Institutional Racism." Chapter 1 in _Racism & Justice: The Case for Affirmative Action_. Cornell University Press, 1991. ISBN: 9780801499227. \[Preview with [Google Books](http://books.google.com/books?id=5XFBBCvU6GoC&pg=PA9#v=onepage)\]
+Ezorsky, Gertrude. "Overt and Institutional Racism." Chapter 1 in _Racism & Justice: The Case for Affirmative Action_. Cornell University Press, 1991. ISBN: 9780801499227. \[Preview with {{% resource_link "3078c85a-7831-4d0d-9fe5-ecb045ada378" "Google Books" %}}\]
 
-Young, Iris Marion. "Five Faces of Oppression." Chapter 2 in _Justice and the Politics of Difference_. Princeton University Press, 2011. ISBN: 9780691152622. \[Preview with [Google Books](http://books.google.com/books?id=AU5dpgNLjA0C&pg=PA39#v=onepage)\]
+Young, Iris Marion. "Five Faces of Oppression." Chapter 2 in _Justice and the Politics of Difference_. Princeton University Press, 2011. ISBN: 9780691152622. \[Preview with {{% resource_link "3aac8b4f-5030-48cc-86ae-15fea410c553" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -391,7 +389,7 @@ Equality and Social Justice
 {{< tdopen >}}
 
 
-Anderson, Elizabeth S. "[What is the Point of Equality?](http://www.jstor.org/stable/10.1086/233897)" _Ethics_ 109, no. 2 (1999): 287–337.
+Anderson, Elizabeth S. "{{% resource_link "6ef8406c-8bae-4d47-b065-cae3b04cd96b" "What is the Point of Equality?" %}}" _Ethics_ 109, no. 2 (1999): 287–337.
 
 ### Recommended
 
@@ -411,7 +409,7 @@ Equality and Respect
 {{< tdopen >}}
 
 
-LeBron, Christopher. "[Equality from a Human Point of View](https://muse.jhu.edu/login?auth=0&type=summary&url=/journals/critical_philosophy_of_race/v002/2.2.lebron.pdf)." _Critical Philosophy of Race_ 2, no. 2 (2014): 125–59.
+LeBron, Christopher. "{{% resource_link "54b7f89e-4e21-4550-a72b-e4567c8efabe" "Equality from a Human Point of View" %}}." _Critical Philosophy of Race_ 2, no. 2 (2014): 125–59.
 
 ### Recommended
 
@@ -435,17 +433,17 @@ Inter-culturation, Cultural Appropriation, and Commodity Fetishism
 {{< tdopen >}}
 
 
-Mercer, Kobena. ["Black Hair / Style Politics." (PDF)](http://www.blacklivesmattersyllabus.com/wp-content/uploads/2012/09/kobena-mercer-blackhair.pdf) _New Formations_ 3 (1987): 33–54.
+Mercer, Kobena. {{% resource_link "bd2b6424-9303-48af-926e-095791ad9397" "\"Black Hair / Style Politics.\" (PDF)" %}} _New Formations_ 3 (1987): 33–54.
 
 ### Recommended
 
-Camp, Elizabeth. "[The Socio-Aesthetics of Pink](http://www.aestheticsforbirds.com/2014/11/the-socio-aesthetics-of-pink-by.html)." November 5, 2014. Aesthetics For Birds.
+Camp, Elizabeth. "{{% resource_link "4dbebd1a-0855-4fd2-90af-69988dfc04ce" "The Socio-Aesthetics of Pink" %}}." November 5, 2014. Aesthetics For Birds.
 
-Callan, Eamonn. "[The Ethics of Assimilation](http://www.jstor.org/stable/10.1086/428460)." _Ethics_ 115, no. 3 (2005): 471–500.
+Callan, Eamonn. "{{% resource_link "cf12e71c-4081-4fdb-a825-3b49b32da570" "The Ethics of Assimilation" %}}." _Ethics_ 115, no. 3 (2005): 471–500.
 
-Young, James O., and Conrad G. Brunk, eds. _The Ethics of Cultural Appropriation_. Wiley-Blackwell, 2009. ISBN: 9781405161596. \[Preview with [Google Books](http://books.google.com/books?id=TlImKOGvP0IC&pg=PAfrontcover)\]
+Young, James O., and Conrad G. Brunk, eds. _The Ethics of Cultural Appropriation_. Wiley-Blackwell, 2009. ISBN: 9781405161596. \[Preview with {{% resource_link "dfb7909b-db72-4d0c-ad88-d8409a3c02d2" "Google Books" %}}\]
 
-Coombe, Rosemary. "[Sports Trademarks and Somatic Politics: Locating the Law in a Critical Cultural Studies](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2463762)." York University, 1999.
+Coombe, Rosemary. "{{% resource_link "dd015c10-a7f4-4ca8-900c-9b85d21b527b" "Sports Trademarks and Somatic Politics: Locating the Law in a Critical Cultural Studies" %}}." York University, 1999.
 
 
 {{< tdclose >}}
@@ -456,7 +454,7 @@ Coombe, Rosemary. "[Sports Trademarks and Somatic Politics: Locating the Law in 
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Screening: _[Free Angela and All Political Prisoners](http://www.imdb.com/title/tt2350432/?ref_=fn_al_tt_1)._ Directed by Shola Lynch. Color, 102 min. 2012.
+Screening: _{{% resource_link "505ff728-4b28-4a84-b3bb-153431116225" "Free Angela and All Political Prisoners" %}}._ Directed by Shola Lynch. Color, 102 min. 2012.
 {{< tdclose >}}
 {{< tdopen >}}
 No readings assigned
@@ -471,7 +469,7 @@ No readings assigned
 Racial Profiling
 {{< tdclose >}}
 {{< tdopen >}}
-Lever, Annabelle. "[Why Racial Profiling is Hard to Justify. A Response to Risse and Zeckhauser](http://dx.doi.org/10.1111/j.1088-4963.2005.00026.x)." _Philosophy & Public Affairs_ 33, no. 1 (2005): 94–110.
+Lever, Annabelle. "{{% resource_link "15793ca0-38a9-4c87-a0d8-953e6420658b" "Why Racial Profiling is Hard to Justify. A Response to Risse and Zeckhauser" %}}." _Philosophy & Public Affairs_ 33, no. 1 (2005): 94–110.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -493,7 +491,7 @@ _Note: This session was taught by guest lecturer Jerome Hodges_
 
 Alexander, Michelle. "Introduction." In _The New Jim Crow: Mass Incarceration in the Age of Colorblindness_. The New Press, 2012. ISBN: 9781595586438.
 
-[The Abolitionist Toolkit, Part 2: Information Sheets (PDF)](http://criticalresistance.org/wp-content/uploads/2012/06/Ab-Toolkit-Part-2.pdf). Critical Resistance.
+{{% resource_link "8b1ed2bc-b67a-4951-b0b1-dcd02a422d0c" "The Abolitionist Toolkit, Part 2: Information Sheets (PDF)" %}}. Critical Resistance.
 
 ### Recommended
 
@@ -513,9 +511,9 @@ The Case for Reparations
 {{< tdopen >}}
 
 
-Coates, Ta-Nehisi. "[The Case for Reparations](http://www.theatlantic.com/features/archive/2014/05/the-case-for-reparations/361631/)." _The Atlantic_, June 2014.
+Coates, Ta-Nehisi. "{{% resource_link "318588db-5415-4243-a7a2-a53f15f31e41" "The Case for Reparations" %}}." _The Atlantic_, June 2014.
 
-Rosen, Rebecca J. "[Ta-Nehisi Coates on Not Knowing How Much You Don't Know](http://www.theatlantic.com/business/archive/2014/06/watch-the-atlantics-ta-nehisi-coates-discuss-reparations/372700/)." _The Atlantic_, June 13, 2014.
+Rosen, Rebecca J. "{{% resource_link "dd2f6245-28e9-4d7b-bc1a-69f505018036" "Ta-Nehisi Coates on Not Knowing How Much You Don't Know" %}}." _The Atlantic_, June 13, 2014.
 
 _Note: The Rosen reading also contained a video of Ta-Nehisi Coates and Jeffrey Goldberg discussing Coates' article "The Case for Reparations." The class watched a clip from the video and then had an open discussion based on questions provided in this session's lecture notes._
 
@@ -549,4 +547,4 @@ Related Resources
 
 The following site includes sections on race, racism, and related topics:
 
-Elizabeth S. Anderson's [Race, Gender, and Affirmative Action: Resource Page for Teaching and Study](http://www-personal.umich.edu/~eandersn/biblio.htm), University of Michigan.
+Elizabeth S. Anderson's {{% resource_link "7e53e156-4812-4554-a457-025baa37fa3d" "Race, Gender, and Affirmative Action: Resource Page for Teaching and Study" %}}, University of Michigan.

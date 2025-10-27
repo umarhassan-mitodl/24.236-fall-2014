@@ -3,8 +3,6 @@ content_type: page
 description: This section provides descriptions of the weekly response papers and
   the final paper required for the course, and an example final paper written by a
   student.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

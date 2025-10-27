@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, texts, requirements, and grading policies.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -32,7 +30,7 @@ Most readings for the course will be articles that can be found in the {{% resou
 
 The following texts are also useful:
 
-Blum, Lawrence. _"I'm Not a Racist, But…": The Moral Quandary of Race_. Cornell University Press, 2002. ISBN: 9780801488153. \[Preview with [Google Books](http://books.google.com/books?id=X6VnRiUmp3oC&pg=PAfrontcover)\]
+Blum, Lawrence. _"I'm Not a Racist, But…": The Moral Quandary of Race_. Cornell University Press, 2002. ISBN: 9780801488153. \[Preview with {{% resource_link "b7137cb1-a820-422d-ba06-0affcbdebba7" "Google Books" %}}\]
 
 Boxill, Bernard, ed. _Race and Racism_. Oxford University Press, 2001. ISBN: 9780198752677.
 

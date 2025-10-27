@@ -5,8 +5,6 @@ description: 'This is a resource file that contains information regarding topics
 file: /courses/24-236-topics-in-social-theory-and-practice-race-and-racism-fall-2014/62a29ccacb602811a9aef51fecc41cc4_MIT24_236F14_FinalPaper.pdf
 file_size: 153129
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
